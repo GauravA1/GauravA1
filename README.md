@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @GauravA1
-- 👀 I’m interested in programming
+- 👋 Hi, I’m GAURAV.G.ARANKALYE
+- 👀 I’m interested in programming,machine learning
 - 🌱 I’m currently learning Full Stack Web development
+- Pursuing B.tech in Government College of Engineering , Karad
 - INTERN at Pantech Prolabs India Pvt ltd.
 
 <!---
